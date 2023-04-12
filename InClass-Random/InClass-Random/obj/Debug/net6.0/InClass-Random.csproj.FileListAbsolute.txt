@@ -1,0 +1,15 @@
+E:\Fall 2022\1260\Code\InClass-Random\InClass-Random\bin\Debug\net6.0\InClass-Random.exe
+E:\Fall 2022\1260\Code\InClass-Random\InClass-Random\bin\Debug\net6.0\InClass-Random.deps.json
+E:\Fall 2022\1260\Code\InClass-Random\InClass-Random\bin\Debug\net6.0\InClass-Random.runtimeconfig.json
+E:\Fall 2022\1260\Code\InClass-Random\InClass-Random\bin\Debug\net6.0\InClass-Random.dll
+E:\Fall 2022\1260\Code\InClass-Random\InClass-Random\bin\Debug\net6.0\InClass-Random.pdb
+E:\Fall 2022\1260\Code\InClass-Random\InClass-Random\obj\Debug\net6.0\InClass-Random.csproj.AssemblyReference.cache
+E:\Fall 2022\1260\Code\InClass-Random\InClass-Random\obj\Debug\net6.0\InClass-Random.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fall 2022\1260\Code\InClass-Random\InClass-Random\obj\Debug\net6.0\InClass-Random.AssemblyInfoInputs.cache
+E:\Fall 2022\1260\Code\InClass-Random\InClass-Random\obj\Debug\net6.0\InClass-Random.AssemblyInfo.cs
+E:\Fall 2022\1260\Code\InClass-Random\InClass-Random\obj\Debug\net6.0\InClass-Random.csproj.CoreCompileInputs.cache
+E:\Fall 2022\1260\Code\InClass-Random\InClass-Random\obj\Debug\net6.0\InClass-Random.dll
+E:\Fall 2022\1260\Code\InClass-Random\InClass-Random\obj\Debug\net6.0\refint\InClass-Random.dll
+E:\Fall 2022\1260\Code\InClass-Random\InClass-Random\obj\Debug\net6.0\InClass-Random.pdb
+E:\Fall 2022\1260\Code\InClass-Random\InClass-Random\obj\Debug\net6.0\InClass-Random.genruntimeconfig.cache
+E:\Fall 2022\1260\Code\InClass-Random\InClass-Random\obj\Debug\net6.0\ref\InClass-Random.dll
